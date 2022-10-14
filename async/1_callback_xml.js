@@ -8,7 +8,7 @@ function exito(response){
 function fallo(status){
     console.log(status)
 }
-function get_data(endpoint,exito, fallo){
+const  get_data = (endpoint,exito, fallo) => {
     //Conexión API
     let http = new XMLHttpRequest()
     //Abrir conexión a ala API
