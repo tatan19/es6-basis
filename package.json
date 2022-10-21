@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "dev": "nodemon evidencia_2/api_burguer.js"
+    "dev": "nodemon evidencia_2/api_poter.js"
   },
   "repository": {
     "type": "git",
